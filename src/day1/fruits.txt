@@ -1,4 +1,6 @@
 mango
 apple
-orange
-kiwi
+tomato
+peach
+pineapple
+dragon fruit
