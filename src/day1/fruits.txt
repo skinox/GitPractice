@@ -5,3 +5,4 @@ peach
 pineapple
 dragon fruit
 cherry
+banana
