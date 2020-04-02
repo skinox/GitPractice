@@ -1,0 +1,6 @@
+Apple
+IBM
+Intel
+Facebook
+Google
+Amazon
