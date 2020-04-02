@@ -1,6 +1,5 @@
 Apple
 IBM
 Intel
-Facebook
-Google
-Amazon
+Chegg
+Instagram
